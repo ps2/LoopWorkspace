@@ -1,9 +1,11 @@
 [submodule "Loop"]
 	path = Loop
-	url = https://github.com/LoopKit/Loop.git
+	url = https://github.com/ps2/Loop.git
+	branch = loopcare
 [submodule "LoopKit"]
 	path = LoopKit
-	url = https://github.com/LoopKit/LoopKit.git
+	url = https://github.com/ps2/LoopKit.git
+	branch = loopcare
 [submodule "CGMBLEKit"]
 	path = CGMBLEKit
 	url = https://github.com/LoopKit/CGMBLEKit.git
@@ -73,3 +75,6 @@
 [submodule "RoundWhiteDiscKit"]
 	path = RoundWhiteDiscKit
 	url = https://github.com/airedev326/RoundWhiteDiscKit.git
+[submodule "LoopCareService"]
+	path = LoopCareService
+	url = https://github.com/ps2/LoopCareService.git
