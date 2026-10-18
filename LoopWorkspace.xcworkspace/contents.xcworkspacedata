@@ -112,6 +112,9 @@
       location = "group:NightscoutService/NightscoutService.xcodeproj">
    </FileRef>
    <FileRef
+      location = "group:LoopCareService/LoopCareService.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:TrueTime.swift/TrueTime.xcodeproj">
    </FileRef>
    <FileRef

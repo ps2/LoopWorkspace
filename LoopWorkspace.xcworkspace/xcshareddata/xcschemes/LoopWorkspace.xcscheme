@@ -140,6 +140,20 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
+               BlueprintIdentifier = "5031CE0522336F3C821584C9"
+               BuildableName = "LoopCareServiceKitPlugin.loopplugin"
+               BlueprintName = "LoopCareServiceKitPlugin"
+               ReferencedContainer = "container:LoopCareService/LoopCareService.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
                BlueprintIdentifier = "3E767D422D67B790004B1971"
                BuildableName = "MedtrumKitPlugin.loopplugin"
                BlueprintName = "MedtrumKitPlugin"
