@@ -76,5 +76,5 @@
 	path = RoundWhiteDiscKit
 	url = https://github.com/airedev326/RoundWhiteDiscKit.git
 [submodule "LoopCareService"]
-	path = LoopCareService
+	path = LoopSightService
 	url = https://github.com/ps2/LoopCareService.git

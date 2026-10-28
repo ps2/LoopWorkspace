@@ -140,10 +140,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "5031CE0522336F3C821584C9"
-               BuildableName = "LoopCareServiceKitPlugin.loopplugin"
-               BlueprintName = "LoopCareServiceKitPlugin"
-               ReferencedContainer = "container:LoopCareService/LoopCareService.xcodeproj">
+               BlueprintIdentifier = "9A4DB9CCD0C363BE2EDE2F4E"
+               BuildableName = "LoopSightServiceKitPlugin.loopplugin"
+               BlueprintName = "LoopSightServiceKitPlugin"
+               ReferencedContainer = "container:LoopSightService/LoopSightService.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
