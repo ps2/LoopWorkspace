@@ -115,7 +115,7 @@
       "location" : "https://github.com/LoopKit/NightscoutKit",
       "state" : {
         "branch" : "main",
-        "revision" : "8ae3e6e80e8ea1192921ba3ad4b1adbefc40e81b"
+        "revision" : "6efa02d457fef8d857e347c1b6445e4707c097a4"
       }
     },
     {
@@ -168,7 +168,7 @@
       "location" : "https://github.com/tidepool-org/TidepoolKit",
       "state" : {
         "branch" : "dev",
-        "revision" : "290bd0431c55e8d0e0e542b163de13b1f07b77d9"
+        "revision" : "0f127debeecf5b3b378f7d7100c8e3d7e2d99615"
       }
     },
     {
